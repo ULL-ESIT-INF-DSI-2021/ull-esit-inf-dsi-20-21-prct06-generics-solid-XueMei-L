@@ -67,11 +67,7 @@ export interface isConvertible<T> {
 }
 ```
 
-````
 
-````
-
-````
 
 ````
 
