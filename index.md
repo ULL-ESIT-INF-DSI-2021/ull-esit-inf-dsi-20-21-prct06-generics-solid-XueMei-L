@@ -298,7 +298,7 @@ export class Volumen implements isConvertible<unidadVolumen> {
 
 El resultado final de cada clase es lo siguiente:
 
-![image-20210401001505292](imagen\image-20210401001505292.png)
+![image-20210401001505292](imagen/image-20210401001505292.png)
 
 ### 3.3. Ejercicio 3 - DSIflix
 
