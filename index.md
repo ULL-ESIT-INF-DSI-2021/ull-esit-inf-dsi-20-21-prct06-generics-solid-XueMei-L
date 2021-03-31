@@ -298,7 +298,7 @@ export class Volumen implements isConvertible<unidadVolumen> {
 
 El resultado final de cada clase es lo siguiente:
 
-![image-20210401001505292](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210401001505292.png)
+![image-20210401001505292](imagen\image-20210401001505292.png)
 
 ### 3.3. Ejercicio 3 - DSIflix
 
@@ -528,7 +528,7 @@ export class Series extends BasicStreamableColletion<series> {
 
 Como conclusión, vamos a ver la siguiente imagen:
 
-![image-20210331235930240](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210331235930240.png)
+![image-20210331235930240](imagen/image-20210331235930240.png)
 
 
 
